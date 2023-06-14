@@ -1,5 +1,5 @@
 ## 프로세스 상태
-![Alt text](image.png)
+<img src="https://github.com/Jung-MinGi/ComputerScience/blob/main/image/process%20state.png"/>
 ***
 프로세스 상태
 * 준비(ready) - 프로세스가 cpu자원을 선점하기 위해 기다리는 상태
