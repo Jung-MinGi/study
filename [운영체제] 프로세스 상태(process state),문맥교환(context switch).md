@@ -5,7 +5,7 @@
 프로세스 상태
 * 준비(ready) - 프로세스가 cpu자원을 선점하기 위해 기다리는 상태
 * 실행(running) - 프로세스가 cpu를 사용하고 있는 상태
-* 봉쇄(blocked, wait, sleep) - cpu를 사용할 수 없는 상태(입출력 요청을 기다리는 경우 등)
+* 봉쇄(blocked, wait, sleep) - cpu를 사용할 수 없는 상태(입출력 요청이 끝나야 ready상태로 바뀐다)
  * new와 terminated는 일시적인 상태이다
 
  ***
