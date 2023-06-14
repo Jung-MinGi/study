@@ -1,5 +1,6 @@
 ## 프로세스 상태
-<img src=/>
+<img src="https://user-images.githubusercontent.com/118701129/245680028-9b4363ff-ba2b-4aab-981a-64555a3c3ab0.png" width="700"/>
+
 ***
 프로세스 상태
 * 준비(ready) - 프로세스가 cpu자원을 선점하기 위해 기다리는 상태
