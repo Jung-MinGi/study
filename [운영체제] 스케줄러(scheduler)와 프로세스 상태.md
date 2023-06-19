@@ -11,7 +11,7 @@
 ### 중기 스케줄러(medium term scheduler)
 * 장기 스케줄러 대신 나옴
 * 메모리에 올라간 프로세스의 수를 조절한다.
-
+* backing store(swap device)에 있는 페이지를 관리한다
 <img width="500" alt="images_asdfg5415_post_81444416-643a-4370-84e7-fd245794140e_image" src="https://github.com/Jung-MinGi/ComputerScience/assets/118701129/1142a16b-bf2c-46b5-8374-564abe556a0d">
 
 중기 스케줄러의 스왑아웃 순위
