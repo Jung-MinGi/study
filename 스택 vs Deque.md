@@ -1,1 +1,0 @@
-[스트림으로 스택의 요소 출력시 LIFO규칙 위반 됨](https://github.com/Jung-MinGi/Algorithm/blob/0bbe2dd8ca873d0aaea338548ff66db671233482/%EB%B0%B1%EC%A4%80/Bronze/1373.%E2%80%852%EC%A7%84%EC%88%98%E2%80%858%EC%A7%84%EC%88%98/2%EC%A7%84%EC%88%98%E2%80%858%EC%A7%84%EC%88%98.java#L33)
