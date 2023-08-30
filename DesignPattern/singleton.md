@@ -24,7 +24,7 @@ public class SingletonTest {
         John instance1 = John.getInstance();
         John instance2 = John.getInstance();
 
-        Assertions.assertThat(instance1).isEqualTo(instance2);
+        Assertions.assertThat(instance1).isSameAs(instance2);
     }
 }
 
