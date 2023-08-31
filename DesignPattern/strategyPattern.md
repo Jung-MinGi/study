@@ -1,4 +1,4 @@
-```
+```java
 package com.min.aaaa.strategy;
 //공통된 행위를 추상화 시켜 인터페이스로 만듦
 public interface Crypto {
@@ -7,7 +7,7 @@ public interface Crypto {
 ```
 ***
 위의 인터페이스를 구현하는 두 개의 클래스 생성
-```
+```java
 package com.min.aaaa.strategy;
 
 public class Eth implements Crypto{
@@ -18,7 +18,7 @@ public class Eth implements Crypto{
 }
 
 ```
-```
+```java
 package com.min.aaaa.strategy;
 
 public class Btc implements Crypto{
@@ -29,7 +29,7 @@ public class Btc implements Crypto{
 }
 ```
 ***
-```
+```java
 package com.min.aaaa.strategy;
 
 public class ShowCryptoPriceService {
@@ -40,7 +40,7 @@ public class ShowCryptoPriceService {
 
 ```
 ***
-```
+```java
 package com.min.aaaa.strategy;
 
 import org.assertj.core.api.Assertions;
