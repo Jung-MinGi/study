@@ -1,4 +1,4 @@
-```
+```java
 package com.min.aaaa.singleton;
 
 
@@ -11,7 +11,7 @@ public class John {
 }
 
 ```
-```
+```java
 package com.min.aaaa.singleton;
 
 import org.assertj.core.api.Assertions;
