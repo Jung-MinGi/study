@@ -1,11 +1,34 @@
 ```
 package com.min.aaaa.strategy;
-
+//공통된 행위를 추상화 시켜 인터페이스로 만듦
 public interface Crypto {
      Integer showPrice();
 }
+```
+***
+위의 인터페이스를 구현하는 두 개의 클래스 생성
+```
+package com.min.aaaa.strategy;
+
+public class Eth implements Crypto{
+    @Override
+    public Integer showPrice() {
+        return 2200000;
+    }
+}
 
 ```
+```
+package com.min.aaaa.strategy;
+
+public class Btc implements Crypto{
+    @Override
+    public Integer showPrice() {
+        return 40000000;
+    }
+}
+```
+***
 ```
 package com.min.aaaa.strategy;
 
@@ -16,6 +39,7 @@ public class ShowCryptoPriceService {
 }
 
 ```
+***
 ```
 package com.min.aaaa.strategy;
 
