@@ -31,7 +31,7 @@ public class functional {
 ```
   @Test
     void functionalTest(){
-        Predicate<Integer> p = integer -> integer%2==0;
+        Predicate<Integer> p = i -> i%2==0;
         boolean test = p.test(100);
         Assertions.assertThat(test).isInstanceOf(Boolean.class);
     }
