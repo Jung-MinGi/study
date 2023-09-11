@@ -22,5 +22,6 @@
 > 자바에서는 적재율이 0.75를 넘기면 테이블크기를 늘린다고 한다
 
 출처
-https://st-lab.tistory.com/240
+* https://st-lab.tistory.com/240
+* https://baeharam.netlify.app/posts/data%20structure/hash-table
 
