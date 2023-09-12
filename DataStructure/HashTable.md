@@ -1,5 +1,6 @@
 ## HashTable
 > 배열과 해시함수를 이용하여 map을 구현한 자료구조
+> 
 > 상수시간O(1)의 데이터 접근속도를 가진다(최악은 O(N))
 
 <img src="https://github.com/Jung-MinGi/study/assets/118701129/4f9ab8f3-2348-451c-a835-8c493d2263bc" width="300" height="250"/>
