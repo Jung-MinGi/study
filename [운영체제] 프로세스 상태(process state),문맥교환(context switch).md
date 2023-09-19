@@ -1,4 +1,4 @@
-3## 프로세스 상태
+## 프로세스 상태
 <img src="https://user-images.githubusercontent.com/118701129/245680028-9b4363ff-ba2b-4aab-981a-64555a3c3ab0.png" width="700"/>
 
 ***
